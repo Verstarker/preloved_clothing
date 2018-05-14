@@ -3,7 +3,7 @@
 Plugin Name: Testy  Testimonials
 Description: Wordpress plugin for testimonials
 Version: 0.1
-Author: Joel Withers
+Author: Hayden Wrathall
 */
 defined('ABSPATH') or die('No script kiddies please!');
 
